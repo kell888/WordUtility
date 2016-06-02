@@ -1,0 +1,11 @@
+D:\WordUtility\WordUtility\obj\Release\ResolveAssemblyReference.cache
+D:\WordUtility\WordUtility\obj\Release\Interop.VBIDE.dll
+D:\WordUtility\WordUtility\obj\Release\Interop.Word.dll
+D:\WordUtility\WordUtility\obj\Release\WordUtility.csproj.ResolveComReference.cache
+D:\WordUtility\WordUtility\bin\Release\WordUtility.dll.config
+D:\WordUtility\WordUtility\bin\Release\WordUtility.dll
+D:\WordUtility\WordUtility\bin\Release\WordUtility.pdb
+D:\WordUtility\WordUtility\bin\Release\Interop.VBIDE.dll
+D:\WordUtility\WordUtility\bin\Release\Interop.Word.dll
+D:\WordUtility\WordUtility\obj\Release\WordUtility.dll
+D:\WordUtility\WordUtility\obj\Release\WordUtility.pdb
